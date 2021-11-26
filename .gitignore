@@ -1,0 +1,55 @@
+### IDE directories
+.vs
+.vscode
+.idea
+
+### IDE files
+*.suo
+*.csproj.user
+*.xproj.user
+*.DotSettings.user
+*.userprefs
+*.pubxml
+
+### VCS directories
+
+
+### VCS files
+*.vssscc
+*.csproj.vspscc
+
+### TESTS directories
+
+
+### TESTS files
+*.ncrunchsolution.user
+*.ncrunchsolution.cache
+*.ncrunchproject.user
+*.ncrunchproject.cache
+
+### .NET directories
+
+
+### .NET files
+project.lock.json
+
+### Temp directories
+[Bb]in
+[Oo]bj
+[Tt]mp
+packages
+.publish
+.deploy
+.logs
+
+### Temp files
+*.log
+*.nuget.cache
+
+### Full path
+/deps/*
+/samples/*
+/logs/*
+/tmp/*
+/bin/*
+
